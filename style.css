@@ -1,4 +1,5 @@
-.video{
-    height: 800;
-    width: 800;
-}
+#video{
+  width:100%;
+  height:500px;
+  border: none;
+    
